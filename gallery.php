@@ -1,0 +1,1 @@
+<h1 style="color:red">Ini adalah Gallery<h1>
